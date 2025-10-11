@@ -1,5 +1,4 @@
 # Contributors
-
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
@@ -53,6 +52,7 @@
 - [Ajit Salunke](https://github.com/Ajx897)
 - [Ajit paraskar](https://github.com/ajitparaskar)
 - [Sujal Pawar](https://github.com/sujal-pawar)
+- [YASH PATIL](https://github.com/yashcodes29)
 - [Eshwari patil](https://github.com/eshwari-patil )
 - [Rajesh Marathe](https://github.com/HERORAM-TECH)
 - [Sudhanshu vasave](https://github.com/siddache)
@@ -98,6 +98,7 @@
 - [Dnyaneshwari Pawar](https://github.com/DnyaneshwariPawar273)
 - [Janhavi Banekar](https://github.com/JanhaviBanekar)
 - [Ajit Chavan](https://github.com/Ajit2006-web)
+- [Pranav Mulik](https://github.com/PranavMulik)
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
@@ -131,6 +132,7 @@
 - [Om Thorat](https://github.com/OmThorat17)
 - [Krishna Bagul](https://github.com/krishnabagul-sketch )
 - [hitesh divnale](https://github.com/HiteshDivnale/first-contributions.git)
+- [Prathamesh Bam](https://github.com/just-pratham)
 - [Khushi Bane](https://github.com/khushi-eng )
 - [GAYATRI MAHAJAN](https://github.com/Gayatri092 )
 - [Surya pratap singh](https://github.com/Surya1087)
