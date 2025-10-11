@@ -1,4 +1,5 @@
 # Contributors
+- [sakshi bhise](https://github.com/sakshigb)
 - [Soham Mahajan](https://github.com/Soham568)
 - [Rahul jadhav](https://github.com/rahulj2122005)
 - [Harshal Shahare](https://github.com/Harshal0503)
@@ -18,7 +19,7 @@
 - [Saee Shinde](https://github.com/saeeshinde)
 - [Jatin sharma](https://github.com/JV-2701)
 - [Aniket Jaitkar](https://github.com/LEARNER1432)
-- [Divyanshu Khajuria](https://github.com/dk2655)
+- [Divyanshu Khajuria](https://github.com/dk2655
 - [Gitak Patil](https://github.com/gitak25)
 - [Pumang Kirange](https://github.com/pumang18)
 - [Aman Shaikh](https://github.com/Brainstorm786)
