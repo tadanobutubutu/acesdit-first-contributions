@@ -142,6 +142,4 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
-- [Gayatri Pawar](https://github.com/GayatriPawar21)
-- [dnyaneshwar kalane](https://github.com/dnyaneshwar08166)
-- [Neel Malpure](https://github.com/Neelmalpure)
+- [Yash sanjay gaikwad](https://github.com/OrbitX90)
