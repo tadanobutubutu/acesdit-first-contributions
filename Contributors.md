@@ -135,6 +135,7 @@
 - [Prathamesh Bam](https://github.com/just-pratham)
 - [Khushi Bane](https://github.com/khushi-eng )
 - [GAYATRI MAHAJAN](https://github.com/Gayatri092 )
+- [Kabir Shaikh](https://github.com/Kabira24)
 - [Surya pratap singh](https://github.com/Surya1087)
 - [om mardane](https://github.com/om-mardane)
 - [Isha](https://github.com/Ishabhosale )
