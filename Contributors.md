@@ -52,6 +52,7 @@
 - [Ajit Salunke](https://github.com/Ajx897)
 - [Ajit paraskar](https://github.com/ajitparaskar)
 - [Sujal Pawar](https://github.com/sujal-pawar)
+- [YASH PATIL](https://github.com/yashcodes29)
 - [Eshwari patil](https://github.com/eshwari-patil )
 - [Rajesh Marathe](https://github.com/HERORAM-TECH)
 - [Sudhanshu vasave](https://github.com/siddache)
