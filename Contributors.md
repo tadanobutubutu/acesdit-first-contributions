@@ -98,6 +98,7 @@
 - [Dnyaneshwari Pawar](https://github.com/DnyaneshwariPawar273)
 - [Janhavi Banekar](https://github.com/JanhaviBanekar)
 - [Ajit Chavan](https://github.com/Ajit2006-web)
+- [Pranav Mulik](https://github.com/PranavMulik)
 - [PRIYANKA SHEWALE](https://github.com/PRIYANKA-SHEWALE-code)
 - [Dipak Gayakwad](https://github.com/Deepgayakwad)
 - [Mahesh Bhutda](https://github.com/MahiBot369 )
