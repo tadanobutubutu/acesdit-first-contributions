@@ -1,5 +1,5 @@
 # Contributors
-   [dnyaneshwar kalane](https://github.com/dnyaneshwar08166)
+- [dnyaneshwar kalane](https://github.com/dnyaneshwar08166)
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
@@ -141,3 +141,4 @@
 - [Chetan Kharade](https://github.com/Chetan9123)
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
+- [Aditi Joshi](https://github.com/aditie26)
