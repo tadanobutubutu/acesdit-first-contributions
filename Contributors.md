@@ -1,5 +1,4 @@
 # Contributors
-
 - [Surapto Sinha](https://github.com/sinhasurapto)
 - [Omkar Vasekar](https://github.com/omkarvasekar)
 - [Paras Kavdikar](https://github.com/Fakipo)
@@ -142,3 +141,4 @@
 - [Ashutosh Raj](https://github.com/ashhh17-sys)
 - [Shrimun Agarwal](https://github.com/shri-915)
 - [Gayatri Pawar](https://github.com/GayatriPawar21)
+- [dnyaneshwar kalane](https://github.com/dnyaneshwar08166)
