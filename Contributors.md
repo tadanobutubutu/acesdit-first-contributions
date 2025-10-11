@@ -132,6 +132,7 @@
 - [Om Thorat](https://github.com/OmThorat17)
 - [Krishna Bagul](https://github.com/krishnabagul-sketch )
 - [hitesh divnale](https://github.com/HiteshDivnale/first-contributions.git)
+- [Prathamesh Bam](https://github.com/just-pratham)
 - [Khushi Bane](https://github.com/khushi-eng )
 - [GAYATRI MAHAJAN](https://github.com/Gayatri092 )
 - [Surya pratap singh](https://github.com/Surya1087)
